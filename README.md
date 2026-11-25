@@ -54,5 +54,6 @@ XGBoost was selected for further optimization based on its cross-validation perf
 - SHAP
 
 ## Author
+Imane Rheffari
 
-Imane
+Master's Graduate in Big Data and Artificial Intelligence Interested in Data Science, Data Engineering, Data Analytics, and Artificial Intelligence.
